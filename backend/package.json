@@ -5,7 +5,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "server": "nodemon app.js"
+    "server": "node app.js"
   },
   "author": "",
   "license": "ISC",
